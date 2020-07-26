@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "ru"
+title = "fess932 blog"
+theme = "dream"
