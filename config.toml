@@ -10,14 +10,14 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Osprey Example Site"
+  tagline = "fess932 blog"
   author = "Toma Nistor"
-  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
-  logoBig = "/images/osprey-logo.png"
-  logoSmall = "/images/osprey-logo.png"
+  description = "Full-stack web developer and UI/UX enthusiast"
+  logoBig = "/images/ava.jpg"
+  logoSmall = "/images/ava.jpg"
   favicon = "favicon.ico"
-  opengraphImage = "/images/osprey.png"
-  email = ""
+  opengraphImage = "/images/ava.jpg"
+  email = "fess932@gmail.com"
   googleTagManger = ""
   customCSS = false
 
