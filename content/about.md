@@ -10,4 +10,4 @@ I am vue js ang golang programmger
 
 My name Ivan
 
-Current i working at many apps
+Currently I work on many apps
