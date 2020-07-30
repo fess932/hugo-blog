@@ -9,3 +9,5 @@ draft = false
 I am vue js ang golang programmger
 
 My name Ivan
+
+Current i working at many apps
